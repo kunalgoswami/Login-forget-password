@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: kunalgoswami1996@gmail.com
+Date: Sat, 12 Feb 2022 11:34:17 -0000
+Message-ID: <164466565750.22084.11512907297367113123@LAPTOP-0RAU5EJB.hgu_lan>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mg/b0qsr5-5099bf073086b0ff0395cb45b0512789/
+
+Your username, in case you’ve forgotten: kunal
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
